@@ -20,4 +20,4 @@ If you missed it, don't worry, you can still watch it.
 
 <!-- more -->
 
-You can view the ARM DevSummit 2020 webinar [here](https://devsummit.arm.com/agenda/?search=Travis#/). Make sure any questions you might are placed in the Q&A. We look forward to answering your questions and hopefully you will enjoy this perfect implementation of Graviton2.
+You can view the ARM DevSummit 2020 webinar [here](https://devsummit.arm.com/agenda/?search=Travis#/). Make sure any questions you might have are placed in the Q&A. We look forward to answering your questions and hopefully you will enjoy this perfect implementation of Graviton2.
